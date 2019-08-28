@@ -1,5 +1,5 @@
 
-public class VivekDemo {
+public class RemoveDuplicateFromArray {
 	public static void main(String[] args) {
 		int[] arr= {10,20,20,30,40,40,50,50};
 		int len=arr.length;
