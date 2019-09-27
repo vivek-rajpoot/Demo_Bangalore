@@ -1,0 +1,414 @@
+[27 Mar 2019 09:41:25,142 : INFO ] - main called
+
+[27 Mar 2019 09:44:19,747 : INFO ] - main called
+
+[27 Mar 2019 09:54:38,280 : INFO ] - main called
+
+[27 Mar 2019 09:55:05,327 : INFO ] - main called
+
+[27 Mar 2019 09:56:35,584 : INFO ] - main called
+
+[27 Mar 2019 09:57:59,313 : INFO ] - main called
+
+[27 Mar 2019 09:59:53,940 : INFO ] - main called
+
+[27 Mar 2019 10:00:34,509 : INFO ] - main called
+
+[27 Mar 2019 10:00:51,001 : INFO ] - main called
+
+[27 Mar 2019 10:06:55,536 : INFO ] - main called
+
+[27 Mar 2019 10:13:40,833 : INFO ] - main called
+
+[27 Mar 2019 10:14:02,652 : INFO ] - main called
+
+[27 Mar 2019 10:14:32,830 : INFO ] - main called
+
+[27 Mar 2019 10:28:54,609 : INFO ] - main called
+
+[27 Mar 2019 10:29:25,539 : INFO ] - main called
+
+[27 Mar 2019 10:29:43,992 : INFO ] - main called
+
+[27 Mar 2019 10:31:07,229 : INFO ] - main called
+
+[27 Mar 2019 10:33:26,713 : INFO ] - main called
+
+[27 Mar 2019 10:50:16,726 : INFO ] - main called
+
+[27 Mar 2019 10:52:01,042 : INFO ] - main called
+
+[27 Mar 2019 11:00:20,464 : INFO ] - main called
+
+[27 Mar 2019 11:02:34,336 : INFO ] - main called
+
+[27 Mar 2019 11:08:17,294 : INFO ] - main called
+
+[27 Mar 2019 11:09:03,613 : INFO ] - main called
+
+[27 Mar 2019 11:09:33,971 : INFO ] - main called
+
+[27 Mar 2019 11:15:06,420 : INFO ] - main called
+
+[27 Mar 2019 11:15:35,379 : INFO ] - main called
+
+[27 Mar 2019 11:16:19,925 : INFO ] - main called
+
+[27 Mar 2019 11:17:22,976 : INFO ] - main called
+
+[27 Mar 2019 11:22:34,185 : INFO ] - main called
+
+[27 Mar 2019 11:22:34,608 : INFO ] - After connection
+
+[27 Mar 2019 11:22:34,609 : INFO ] - 1553665954608
+
+[27 Mar 2019 11:22:34,636 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 11:22:45,931 : INFO ] - main called
+
+[27 Mar 2019 11:22:46,345 : INFO ] - After connection
+
+[27 Mar 2019 11:22:46,345 : INFO ] - 1553665966345
+
+[27 Mar 2019 11:22:46,369 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 11:22:59,163 : INFO ] - main called
+
+[27 Mar 2019 11:22:59,641 : INFO ] - After connection
+
+[27 Mar 2019 11:22:59,642 : INFO ] - 1553665979641
+
+[27 Mar 2019 11:22:59,664 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 11:24:27,628 : INFO ] - main called
+
+[27 Mar 2019 11:24:28,042 : INFO ] - After connection
+
+[27 Mar 2019 11:24:28,043 : INFO ] - 1553666068042
+
+[27 Mar 2019 11:24:28,065 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 11:25:34,155 : INFO ] - main called
+
+[27 Mar 2019 11:25:34,575 : INFO ] - After connection
+
+[27 Mar 2019 11:25:34,575 : INFO ] - 1553666134575
+
+[27 Mar 2019 11:25:34,597 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 11:25:42,255 : INFO ] - main called
+
+[27 Mar 2019 11:25:42,680 : INFO ] - After connection
+
+[27 Mar 2019 11:25:42,681 : INFO ] - 1553666142680
+
+[27 Mar 2019 11:25:42,702 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 11:26:00,315 : INFO ] - main called
+
+[27 Mar 2019 11:26:00,723 : INFO ] - After connection
+
+[27 Mar 2019 11:26:00,724 : INFO ] - 1553666160723
+
+[27 Mar 2019 11:26:00,745 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 11:26:19,190 : INFO ] - main called
+
+[27 Mar 2019 11:26:19,616 : INFO ] - After connection
+
+[27 Mar 2019 11:26:19,617 : INFO ] - 1553666179617
+
+[27 Mar 2019 11:26:19,675 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,UpdatedOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[27 Mar 2019 11:26:19,689 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy
+
+[27 Mar 2019 11:26:19,694 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy
+
+[27 Mar 2019 11:26:19,697 : INFO ] - Connection Closed
+
+[27 Mar 2019 11:26:55,429 : INFO ] - main called
+
+[27 Mar 2019 11:26:55,845 : INFO ] - After connection
+
+[27 Mar 2019 11:26:55,845 : INFO ] - 1553666215845
+
+[27 Mar 2019 11:26:55,899 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,UpdatedOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[27 Mar 2019 11:26:55,917 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy
+
+[27 Mar 2019 11:26:55,922 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy
+
+[27 Mar 2019 11:26:55,925 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 11:45:12,108 : INFO ] - main called
+
+[27 Mar 2019 12:33:51,634 : INFO ] - main called
+
+[27 Mar 2019 12:35:15,742 : INFO ] - main called
+
+[27 Mar 2019 12:35:34,829 : INFO ] - main called
+
+[27 Mar 2019 12:40:35,976 : INFO ] - main called
+
+[27 Mar 2019 12:41:01,239 : INFO ] - main called
+
+[27 Mar 2019 12:41:15,223 : INFO ] - main called
+
+[27 Mar 2019 12:45:06,835 : INFO ] - main called
+
+[27 Mar 2019 12:45:30,279 : INFO ] - main called
+
+[27 Mar 2019 12:46:27,134 : INFO ] - main called
+
+[27 Mar 2019 12:48:41,670 : INFO ] - main called
+
+[27 Mar 2019 12:50:37,058 : INFO ] - main called
+
+[27 Mar 2019 12:51:02,086 : INFO ] - main called
+
+[27 Mar 2019 13:00:41,227 : INFO ] - main called
+
+[27 Mar 2019 13:15:59,643 : INFO ] - main called
+
+[27 Mar 2019 13:17:25,382 : INFO ] - main called
+
+[27 Mar 2019 13:29:26,248 : INFO ] - main called
+
+[27 Mar 2019 13:30:32,334 : INFO ] - main called
+
+[27 Mar 2019 13:31:33,971 : INFO ] - main called
+
+[27 Mar 2019 13:36:25,606 : INFO ] - main called
+
+[27 Mar 2019 13:37:22,827 : INFO ] - main called
+
+[27 Mar 2019 13:38:32,607 : INFO ] - main called
+
+[27 Mar 2019 13:39:25,133 : INFO ] - main called
+
+[27 Mar 2019 13:39:35,811 : INFO ] - main called
+
+[27 Mar 2019 13:41:04,523 : INFO ] - main called
+
+[27 Mar 2019 13:43:08,100 : INFO ] - main called
+
+[27 Mar 2019 14:15:34,463 : INFO ] - main called
+
+[27 Mar 2019 14:19:24,599 : INFO ] - main called
+
+[27 Mar 2019 14:28:43,670 : INFO ] - main called
+
+[27 Mar 2019 15:04:21,945 : INFO ] - main called
+
+[27 Mar 2019 15:22:10,284 : INFO ] - main called
+
+[27 Mar 2019 15:22:25,179 : INFO ] - main called
+
+[27 Mar 2019 15:22:33,625 : INFO ] - main called
+
+[27 Mar 2019 16:01:21,965 : INFO ] - main called
+
+[27 Mar 2019 16:04:30,185 : INFO ] - main called
+
+[27 Mar 2019 16:04:59,101 : INFO ] - main called
+
+[27 Mar 2019 16:10:40,443 : INFO ] - main called
+
+[27 Mar 2019 16:10:52,237 : INFO ] - main called
+
+[27 Mar 2019 16:11:38,357 : INFO ] - main called
+
+[27 Mar 2019 16:12:53,832 : INFO ] - main called
+
+[27 Mar 2019 16:28:49,190 : INFO ] - main called
+
+[27 Mar 2019 16:30:57,823 : INFO ] - main called
+
+[27 Mar 2019 16:31:41,646 : INFO ] - main called
+
+[27 Mar 2019 16:35:25,001 : INFO ] - main called
+
+[27 Mar 2019 16:35:41,944 : INFO ] - main called
+
+[27 Mar 2019 16:37:14,820 : INFO ] - main called
+
+[27 Mar 2019 16:41:01,930 : INFO ] - main called
+
+[27 Mar 2019 16:42:00,360 : INFO ] - main called
+
+[27 Mar 2019 16:44:31,644 : INFO ] - main called
+
+[27 Mar 2019 16:45:29,347 : INFO ] - main called
+
+[27 Mar 2019 16:46:21,800 : INFO ] - main called
+
+[27 Mar 2019 16:46:28,920 : INFO ] - main called
+
+[27 Mar 2019 16:46:40,752 : INFO ] - main called
+
+[27 Mar 2019 16:47:21,248 : INFO ] - main called
+
+[27 Mar 2019 18:17:57,516 : INFO ] - main called
+
+[27 Mar 2019 18:19:19,968 : INFO ] - main called
+
+[27 Mar 2019 18:38:28,970 : INFO ] - main called
+
+[27 Mar 2019 18:38:29,563 : INFO ] - After connection
+
+[27 Mar 2019 18:38:29,564 : INFO ] - 1553692109563
+
+[27 Mar 2019 18:38:29,674 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,UpdatedOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') and UpdatedOn=Convert(date,getdate())
+
+[27 Mar 2019 18:38:29,683 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy
+
+[27 Mar 2019 18:38:29,717 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy
+
+[27 Mar 2019 18:38:29,721 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 18:39:21,803 : INFO ] - main called
+
+[27 Mar 2019 18:39:22,226 : INFO ] - After connection
+
+[27 Mar 2019 18:39:22,227 : INFO ] - 1553692162227
+
+[27 Mar 2019 18:39:22,278 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,UpdatedOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') and UpdatedOn=Convert(date,getdate())
+
+[27 Mar 2019 18:39:22,280 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy
+
+[27 Mar 2019 18:39:22,291 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy
+
+[27 Mar 2019 18:39:22,294 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 18:53:49,037 : INFO ] - main called
+
+[27 Mar 2019 18:55:35,994 : INFO ] - main called
+
+[27 Mar 2019 18:55:57,294 : INFO ] - main called
+
+[27 Mar 2019 18:56:27,027 : INFO ] - main called
+
+[27 Mar 2019 18:57:52,116 : INFO ] - main called
+
+[27 Mar 2019 18:58:38,575 : INFO ] - main called
+
+[27 Mar 2019 18:59:45,419 : INFO ] - main called
+
+[27 Mar 2019 19:06:20,708 : INFO ] - main called
+
+[27 Mar 2019 19:08:16,457 : INFO ] - main called
+
+[27 Mar 2019 19:13:00,508 : INFO ] - main called
+
+[27 Mar 2019 19:16:53,385 : INFO ] - main called
+
+[27 Mar 2019 19:20:35,653 : INFO ] - main called
+
+[27 Mar 2019 19:22:38,494 : INFO ] - main called
+
+[27 Mar 2019 19:55:25,825 : INFO ] - main called
+
+[27 Mar 2019 19:55:54,908 : INFO ] - main called
+
+[27 Mar 2019 19:56:06,354 : INFO ] - main called
+
+[27 Mar 2019 19:56:14,254 : INFO ] - main called
+
+[27 Mar 2019 20:08:50,081 : INFO ] - main called
+
+[27 Mar 2019 20:12:25,864 : INFO ] - main called
+
+[27 Mar 2019 20:13:13,649 : INFO ] - main called
+
+[27 Mar 2019 20:13:38,268 : INFO ] - main called
+
+[27 Mar 2019 20:14:13,758 : INFO ] - main called
+
+[27 Mar 2019 20:20:05,464 : INFO ] - main called
+
+[27 Mar 2019 20:20:24,498 : INFO ] - main called
+
+[27 Mar 2019 20:22:46,015 : INFO ] - main called
+
+[27 Mar 2019 20:23:27,532 : INFO ] - main called
+
+[27 Mar 2019 20:23:56,148 : INFO ] - main called
+
+[27 Mar 2019 20:24:22,100 : INFO ] - main called
+
+[27 Mar 2019 20:25:01,929 : INFO ] - main called
+
+[27 Mar 2019 20:25:23,704 : INFO ] - main called
+
+[27 Mar 2019 20:25:31,291 : INFO ] - main called
+
+[27 Mar 2019 20:59:11,476 : INFO ] - main called
+
+[27 Mar 2019 20:59:11,904 : INFO ] - After connection
+
+[27 Mar 2019 20:59:11,905 : INFO ] - 1553700551904
+
+[27 Mar 2019 20:59:11,961 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,UpdatedOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') and UpdatedOn=Convert(date,getdate())
+
+[27 Mar 2019 20:59:11,963 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy
+
+[27 Mar 2019 20:59:11,975 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy
+
+[27 Mar 2019 20:59:11,978 : INFO ] - Sql Exception here 
+
+[27 Mar 2019 21:01:19,892 : INFO ] - main called
+
+[27 Mar 2019 21:02:15,064 : INFO ] - main called
+
+[27 Mar 2019 21:02:59,972 : INFO ] - main called
+
+[27 Mar 2019 21:05:14,465 : INFO ] - main called
+
+[27 Mar 2019 21:06:45,380 : INFO ] - main called
+
+[27 Mar 2019 21:28:33,104 : INFO ] - main called
+
+[27 Mar 2019 21:28:44,726 : INFO ] - main called
+
+[27 Mar 2019 21:28:57,889 : INFO ] - main called
+
+[27 Mar 2019 21:29:36,704 : INFO ] - main called
+
+[27 Mar 2019 21:29:55,423 : INFO ] - main called
+
+[27 Mar 2019 21:30:31,382 : INFO ] - main called
+
+[27 Mar 2019 21:39:47,397 : INFO ] - main called
+
+[27 Mar 2019 21:41:48,934 : INFO ] - main called
+
+[27 Mar 2019 21:45:04,163 : INFO ] - main called
+
+[27 Mar 2019 21:46:35,418 : INFO ] - main called
+
+[27 Mar 2019 21:47:13,867 : INFO ] - main called
+
+[27 Mar 2019 21:47:20,934 : INFO ] - main called
+
+[27 Mar 2019 21:47:27,000 : INFO ] - main called
+
+[27 Mar 2019 21:48:08,394 : INFO ] - main called
+
+[27 Mar 2019 21:49:43,646 : INFO ] - main called
+
+[27 Mar 2019 21:51:02,618 : INFO ] - main called
+
+[27 Mar 2019 21:51:58,355 : INFO ] - main called
+
+[27 Mar 2019 22:02:44,146 : INFO ] - main called
+
+[27 Mar 2019 22:04:56,297 : INFO ] - main called
+
+[27 Mar 2019 22:08:52,104 : INFO ] - main called
+
+[27 Mar 2019 22:17:34,902 : INFO ] - main called
+
+[27 Mar 2019 22:19:23,800 : INFO ] - main called
+
+[27 Mar 2019 22:19:49,849 : INFO ] - main called
+

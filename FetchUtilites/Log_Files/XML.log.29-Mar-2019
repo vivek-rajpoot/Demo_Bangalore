@@ -1,0 +1,687 @@
+[ INFO] 29-Mar-2019 09:49:53 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 09:49:53 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 09:50:26 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 09:50:27 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 09:51:05 (Mapping.java:227)
+After connection
+
+[ INFO] 29-Mar-2019 09:51:05 (Mapping.java:248)
+1553833265227
+
+[ INFO] 29-Mar-2019 09:51:05 (Mapping.java:270)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 09:54:10 (Mapping.java:227)
+After connection
+
+[ INFO] 29-Mar-2019 09:54:10 (Mapping.java:248)
+1553833450532
+
+[ INFO] 29-Mar-2019 09:54:10 (Mapping.java:270)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 09:54:59 (Mapping.java:227)
+After connection
+
+[ INFO] 29-Mar-2019 09:54:59 (Mapping.java:248)
+1553833499182
+
+[ INFO] 29-Mar-2019 09:54:59 (Mapping.java:270)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 09:55:27 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 09:55:28 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 09:55:59 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 09:55:59 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 09:58:25 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 09:58:25 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:01:55 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:01:55 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:05:26 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:05:27 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:06:03 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:06:03 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:16:14 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:16:15 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:19:09 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:19:09 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:20:37 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:20:38 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:21:41 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:21:41 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:36:19 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:36:19 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:36:41 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:36:42 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:37:03 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:37:03 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:38:55 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:38:55 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:39:56 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:39:56 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:39:56 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 10:41:01 (Mapping.java:227)
+After connection
+
+[ INFO] 29-Mar-2019 10:41:01 (Mapping.java:248)
+1553836261448
+
+[ INFO] 29-Mar-2019 10:41:01 (Mapping.java:270)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 10:43:59 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:44:00 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:44:41 (Mapping.java:227)
+After connection
+
+[ INFO] 29-Mar-2019 10:44:41 (Mapping.java:248)
+1553836481230
+
+[ INFO] 29-Mar-2019 10:44:41 (Mapping.java:270)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 10:44:41 (Mapping.java:301)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 10:44:59 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:44:59 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:45:15 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:45:15 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:45:15 (Test.java:418)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 10:46:15 (Mapping.java:227)
+After connection
+
+[ INFO] 29-Mar-2019 10:46:15 (Mapping.java:248)
+1553836575836
+
+[ INFO] 29-Mar-2019 10:46:15 (Mapping.java:270)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 10:46:15 (Mapping.java:301)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 10:46:15 (Mapping.java:333)
+Result=SQLServerResultSet:3
+
+[ INFO] 29-Mar-2019 10:46:15 (Mapping.java:374)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 10:47:54 (Mapping.java:227)
+After connection
+
+[ INFO] 29-Mar-2019 10:47:54 (Mapping.java:248)
+1553836674161
+
+[ INFO] 29-Mar-2019 10:47:54 (Mapping.java:270)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 10:47:54 (Mapping.java:301)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 10:47:54 (Mapping.java:333)
+Result=SQLServerResultSet:3
+
+[ INFO] 29-Mar-2019 10:47:54 (Mapping.java:374)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 10:49:25 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:49:25 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:49:25 (Test.java:418)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 10:52:41 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:52:41 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:52:41 (Test.java:418)
+Result=SQLServerResultSet:3
+
+[ INFO] 29-Mar-2019 10:53:04 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:53:04 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:53:04 (Test.java:418)
+Result=SQLServerResultSet:3
+
+[ INFO] 29-Mar-2019 10:56:37 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 10:56:37 (Test.java:259)
+After connection
+
+[ INFO] 29-Mar-2019 10:56:37 (Test.java:418)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 11:15:47 (Mapping.java:231)
+After connection
+
+[ INFO] 29-Mar-2019 11:15:47 (Mapping.java:252)
+1553838347941
+
+[ INFO] 29-Mar-2019 11:15:48 (Mapping.java:274)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 11:15:48 (Mapping.java:337)
+Result=SQLServerResultSet:3
+
+[ INFO] 29-Mar-2019 11:15:48 (Mapping.java:378)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 11:17:42 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 11:17:43 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 11:17:43 (Test.java:422)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 11:22:37 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 11:22:37 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 11:22:37 (Test.java:422)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 11:24:43 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 11:24:43 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 11:24:44 (Test.java:422)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 11:26:11 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 11:26:11 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 11:26:12 (Test.java:422)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 11:28:51 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 11:28:51 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 11:28:51 (Test.java:422)
+Result=SQLServerResultSet:4
+
+[ INFO] 29-Mar-2019 11:49:34 (Mapping.java:231)
+After connection
+
+[ INFO] 29-Mar-2019 11:49:34 (Mapping.java:252)
+1553840374319
+
+[ INFO] 29-Mar-2019 11:49:34 (Mapping.java:274)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 11:50:28 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 11:50:28 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 11:55:18 (Mapping.java:231)
+After connection
+
+[ INFO] 29-Mar-2019 11:55:18 (Mapping.java:252)
+1553840718880
+
+[ INFO] 29-Mar-2019 11:55:18 (Mapping.java:274)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 11:57:41 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 11:57:42 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 11:58:59 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 11:58:59 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:03:52 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:03:52 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:05:57 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:05:58 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:05:58 (Test.java:418)
+Result=SQLServerResultSet:3
+
+[ INFO] 29-Mar-2019 12:28:50 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:28:51 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:28:51 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:29:28 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:29:28 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:29:28 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:49:05 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:49:05 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:49:05 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:49:46 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:49:46 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:49:47 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:50:19 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:50:20 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:50:20 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:51:52 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:51:52 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:51:52 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:53:37 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:53:38 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:53:38 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:54:11 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:54:12 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:54:12 (Test.java:419)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:54:38 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:54:38 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:54:38 (Test.java:419)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 12:57:34 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 12:57:34 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 12:57:34 (Test.java:419)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 14:14:22 (Mapping.java:231)
+After connection
+
+[ INFO] 29-Mar-2019 14:14:22 (Mapping.java:252)
+1553849062656
+
+[ INFO] 29-Mar-2019 14:14:22 (Mapping.java:274)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 14:57:12 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 14:57:12 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 14:57:12 (Test.java:415)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 15:01:08 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 15:01:09 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 15:01:09 (Test.java:415)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 15:02:49 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 15:02:50 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 15:02:50 (Test.java:415)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 15:06:11 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 15:06:11 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 15:06:12 (Test.java:415)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 15:28:00 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 15:28:01 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 15:28:02 (Test.java:416)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 15:53:32 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 15:53:32 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 15:53:32 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 15:59:40 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 15:59:41 (Test.java:263)
+After connection
+
+[ INFO] 29-Mar-2019 15:59:41 (Test.java:418)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 17:41:56 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:41:56 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:41:56 (Test.java:440)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 17:44:46 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:44:47 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:44:47 (Test.java:440)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 17:47:45 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:47:46 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:47:46 (Test.java:440)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 17:49:56 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:49:57 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:49:57 (Test.java:440)
+Result=SQLServerResultSet:2
+
+[ INFO] 29-Mar-2019 17:51:53 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:51:54 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:54:54 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:54:54 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:57:10 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:57:10 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:57:35 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:57:35 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:58:22 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:58:22 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 17:59:03 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 17:59:04 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:00:09 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:00:09 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:00:52 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:00:53 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:00:53 (Test.java:440)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:01:04 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:01:04 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:01:04 (Test.java:440)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:02:10 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:02:10 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:02:10 (Test.java:440)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:02:22 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:02:22 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:02:22 (Test.java:440)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:02:36 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:02:36 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:02:36 (Test.java:440)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:03:51 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:03:52 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:03:52 (Test.java:441)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:05:08 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:05:08 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:05:08 (Test.java:440)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:07:25 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:07:25 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:07:25 (Test.java:440)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:09:04 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:09:05 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:09:05 (Test.java:440)
+Result=SQLServerResultSet:1
+
+[ INFO] 29-Mar-2019 18:13:14 (Test.java:108)
+main called
+
+[ INFO] 29-Mar-2019 18:13:14 (Test.java:285)
+After connection
+
+[ INFO] 29-Mar-2019 18:13:14 (Test.java:440)
+Result=SQLServerResultSet:1
+

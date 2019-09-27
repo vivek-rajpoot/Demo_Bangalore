@@ -1,0 +1,248 @@
+[28 Mar 2019 10:35:10,664 : INFO ] - main called
+
+[28 Mar 2019 10:35:36,746 : INFO ] - main called
+
+[28 Mar 2019 10:42:30,067 : INFO ] - main called
+
+[28 Mar 2019 10:45:44,069 : INFO ] - main called
+
+[28 Mar 2019 10:48:30,170 : INFO ] - main called
+
+[28 Mar 2019 10:51:21,773 : INFO ] - main called
+
+[28 Mar 2019 10:51:41,183 : INFO ] - main called
+
+[28 Mar 2019 10:53:05,277 : INFO ] - main called
+
+[28 Mar 2019 10:55:45,028 : INFO ] - main called
+
+[28 Mar 2019 10:59:29,079 : INFO ] - main called
+
+[28 Mar 2019 11:01:48,437 : INFO ] - main called
+
+[28 Mar 2019 11:02:49,331 : INFO ] - main called
+
+[28 Mar 2019 11:03:11,507 : INFO ] - main called
+
+[28 Mar 2019 11:04:41,436 : INFO ] - main called
+
+[28 Mar 2019 11:05:35,763 : INFO ] - main called
+
+[28 Mar 2019 11:07:03,209 : INFO ] - main called
+
+[28 Mar 2019 11:07:54,368 : INFO ] - main called
+
+[28 Mar 2019 11:08:22,699 : INFO ] - main called
+
+[28 Mar 2019 11:19:01,425 : INFO ] - main called
+
+[28 Mar 2019 11:19:19,879 : INFO ] - main called
+
+[28 Mar 2019 11:19:34,424 : INFO ] - main called
+
+[28 Mar 2019 11:22:14,967 : INFO ] - main called
+
+[28 Mar 2019 11:27:45,199 : INFO ] - main called
+
+[28 Mar 2019 11:36:33,702 : INFO ] - main called
+
+[28 Mar 2019 11:39:29,138 : INFO ] - main called
+
+[28 Mar 2019 11:54:06,897 : INFO ] - main called
+
+[28 Mar 2019 11:55:52,493 : INFO ] - main called
+
+[28 Mar 2019 12:08:38,209 : INFO ] - main called
+
+[28 Mar 2019 12:10:00,563 : INFO ] - main called
+
+[28 Mar 2019 12:10:22,010 : INFO ] - main called
+
+[28 Mar 2019 12:12:18,119 : INFO ] - main called
+
+[28 Mar 2019 12:13:02,622 : INFO ] - main called
+
+[28 Mar 2019 12:15:09,120 : INFO ] - main called
+
+[28 Mar 2019 12:15:53,371 : INFO ] - main called
+
+[28 Mar 2019 12:31:49,550 : INFO ] - main called
+
+[28 Mar 2019 12:32:52,825 : INFO ] - main called
+
+[28 Mar 2019 12:32:59,448 : INFO ] - main called
+
+[28 Mar 2019 12:34:37,177 : INFO ] - main called
+
+[28 Mar 2019 12:55:25,461 : INFO ] - main called
+
+[28 Mar 2019 12:57:45,318 : INFO ] - main called
+
+[28 Mar 2019 12:58:10,801 : INFO ] - main called
+
+[28 Mar 2019 12:58:20,888 : INFO ] - main called
+
+[28 Mar 2019 12:58:43,911 : INFO ] - main called
+
+[28 Mar 2019 12:59:15,615 : INFO ] - main called
+
+[28 Mar 2019 13:50:22,885 : INFO ] - main called
+
+[28 Mar 2019 13:51:53,387 : INFO ] - main called
+
+[28 Mar 2019 13:52:10,474 : INFO ] - main called
+
+[28 Mar 2019 13:52:19,982 : INFO ] - main called
+
+[28 Mar 2019 13:53:56,069 : INFO ] - main called
+
+[28 Mar 2019 13:56:23,598 : INFO ] - main called
+
+[28 Mar 2019 14:00:15,664 : INFO ] - main called
+
+[28 Mar 2019 14:02:20,102 : INFO ] - main called
+
+[28 Mar 2019 14:03:27,777 : INFO ] - main called
+
+[28 Mar 2019 14:17:16,771 : INFO ] - main called
+
+[28 Mar 2019 14:17:52,795 : INFO ] - main called
+
+[28 Mar 2019 14:18:12,025 : INFO ] - main called
+
+[28 Mar 2019 14:56:49,862 : INFO ] - main called
+
+[28 Mar 2019 14:56:50,278 : INFO ] - After connection
+
+[28 Mar 2019 14:56:50,279 : INFO ] - 1553765210279
+
+[28 Mar 2019 14:56:50,333 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[28 Mar 2019 14:56:50,348 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy 
+
+[28 Mar 2019 14:56:50,353 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy 
+
+[28 Mar 2019 14:56:50,356 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'Ordinary_DDLData_Dummy'.
+
+[28 Mar 2019 16:22:19,223 : INFO ] - main called
+
+[28 Mar 2019 16:23:18,593 : INFO ] - main called
+
+[28 Mar 2019 16:23:30,761 : INFO ] - main called
+
+[28 Mar 2019 16:28:15,356 : INFO ] - main called
+
+[28 Mar 2019 16:28:26,720 : INFO ] - main called
+
+[28 Mar 2019 16:38:53,773 : INFO ] - main called
+
+[28 Mar 2019 16:41:28,954 : INFO ] - main called
+
+[28 Mar 2019 16:43:46,905 : INFO ] - main called
+
+[28 Mar 2019 16:48:25,169 : INFO ] - main called
+
+[28 Mar 2019 16:48:40,252 : INFO ] - main called
+
+[28 Mar 2019 16:51:04,760 : INFO ] - main called
+
+[28 Mar 2019 16:51:52,704 : INFO ] - main called
+
+[28 Mar 2019 16:54:14,076 : INFO ] - main called
+
+[28 Mar 2019 16:55:05,254 : INFO ] - main called
+
+[28 Mar 2019 16:56:30,543 : INFO ] - main called
+
+[28 Mar 2019 16:57:25,896 : INFO ] - main called
+
+[28 Mar 2019 16:57:38,599 : INFO ] - main called
+
+[28 Mar 2019 16:58:44,470 : INFO ] - main called
+
+[28 Mar 2019 17:04:03,752 : INFO ] - main called
+
+[28 Mar 2019 17:04:16,409 : INFO ] - main called
+
+[28 Mar 2019 17:04:50,389 : INFO ] - main called
+
+[28 Mar 2019 17:04:57,785 : INFO ] - main called
+
+[28 Mar 2019 17:06:05,522 : INFO ] - main called
+
+[28 Mar 2019 17:06:27,785 : INFO ] - main called
+
+[28 Mar 2019 17:09:16,624 : INFO ] - main called
+
+[28 Mar 2019 17:48:55,863 : INFO ] - main called
+
+[28 Mar 2019 17:51:31,648 : INFO ] - main called
+
+[28 Mar 2019 18:08:09,679 : INFO ] - main called
+
+[28 Mar 2019 18:08:33,554 : INFO ] - main called
+
+[28 Mar 2019 18:09:02,635 : INFO ] - main called
+
+[28 Mar 2019 18:09:46,457 : INFO ] - main called
+
+[28 Mar 2019 18:11:35,745 : INFO ] - main called
+
+[28 Mar 2019 18:13:17,529 : INFO ] - main called
+
+[28 Mar 2019 18:19:18,788 : INFO ] - main called
+
+[28 Mar 2019 18:20:43,435 : INFO ] - main called
+
+[28 Mar 2019 18:21:37,731 : INFO ] - main called
+
+[28 Mar 2019 18:22:06,215 : INFO ] - main called
+
+[28 Mar 2019 18:23:21,588 : INFO ] - main called
+
+[28 Mar 2019 18:24:41,345 : INFO ] - main called
+
+[28 Mar 2019 18:37:05,832 : INFO ] - main called
+
+[28 Mar 2019 18:49:15,339 : INFO ] - main called
+
+[28 Mar 2019 18:49:42,423 : INFO ] - main called
+
+[28 Mar 2019 18:50:43,329 : INFO ] - main called
+
+[28 Mar 2019 18:53:14,698 : INFO ] - main called
+
+[28 Mar 2019 18:53:56,506 : INFO ] - main called
+
+[28 Mar 2019 18:55:10,623 : INFO ] - main called
+
+[28 Mar 2019 18:56:29,504 : INFO ] - main called
+
+[28 Mar 2019 18:58:46,839 : INFO ] - main called
+
+[28 Mar 2019 19:13:50,289 : INFO ] - main called
+
+[28 Mar 2019 19:15:28,842 : INFO ] - main called
+
+[28 Mar 2019 19:15:47,305 : INFO ] - main called
+
+[28 Mar 2019 19:15:54,546 : INFO ] - main called
+
+[28 Mar 2019 19:17:07,201 : INFO ] - main called
+
+[28 Mar 2019 19:17:07,649 : INFO ] - After connection
+
+[28 Mar 2019 19:17:07,649 : INFO ] - 1553780827649
+
+[28 Mar 2019 19:17:07,702 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[28 Mar 2019 19:17:07,753 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy 
+
+[28 Mar 2019 19:17:07,767 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy 
+
+[28 Mar 2019 19:17:07,771 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'Ordinary_DDLData_Dummy'.
+
+[28 Mar 2019 19:20:06,673 : INFO ] - main called
+
+[28 Mar 2019 19:22:51,105 : INFO ] - main called
+

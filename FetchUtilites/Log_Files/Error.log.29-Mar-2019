@@ -1,0 +1,374 @@
+[29 Mar 2019 09:49:53,056 : INFO ] - main called
+
+[29 Mar 2019 09:50:26,643 : INFO ] - main called
+
+[29 Mar 2019 09:51:04,743 : INFO ] - main called
+
+[29 Mar 2019 09:51:05,226 : INFO ] - After connection
+
+[29 Mar 2019 09:51:05,227 : INFO ] - 1553833265227
+
+[29 Mar 2019 09:51:05,294 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[29 Mar 2019 09:51:05,314 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'and'.
+
+[29 Mar 2019 09:54:10,087 : INFO ] - main called
+
+[29 Mar 2019 09:54:10,532 : INFO ] - After connection
+
+[29 Mar 2019 09:54:10,533 : INFO ] - 1553833450532
+
+[29 Mar 2019 09:54:10,589 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[29 Mar 2019 09:54:10,604 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'and'.
+
+[29 Mar 2019 09:54:58,747 : INFO ] - main called
+
+[29 Mar 2019 09:54:59,181 : INFO ] - After connection
+
+[29 Mar 2019 09:54:59,182 : INFO ] - 1553833499182
+
+[29 Mar 2019 09:54:59,233 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[29 Mar 2019 09:54:59,247 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'and'.
+
+[29 Mar 2019 09:55:28,000 : INFO ] - main called
+
+[29 Mar 2019 09:55:59,523 : INFO ] - main called
+
+[29 Mar 2019 09:58:25,201 : INFO ] - main called
+
+[29 Mar 2019 10:01:55,525 : INFO ] - main called
+
+[29 Mar 2019 10:05:26,809 : INFO ] - main called
+
+[29 Mar 2019 10:06:03,373 : INFO ] - main called
+
+[29 Mar 2019 10:16:14,683 : INFO ] - main called
+
+[29 Mar 2019 10:19:09,583 : INFO ] - main called
+
+[29 Mar 2019 10:20:37,993 : INFO ] - main called
+
+[29 Mar 2019 10:21:41,550 : INFO ] - main called
+
+[29 Mar 2019 10:36:19,239 : INFO ] - main called
+
+[29 Mar 2019 10:36:41,893 : INFO ] - main called
+
+[29 Mar 2019 10:37:03,029 : INFO ] - main called
+
+[29 Mar 2019 10:38:55,254 : INFO ] - main called
+
+[29 Mar 2019 10:39:56,305 : INFO ] - main called
+
+[29 Mar 2019 10:39:56,904 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 10:41:01,025 : INFO ] - main called
+
+[29 Mar 2019 10:41:01,448 : INFO ] - After connection
+
+[29 Mar 2019 10:41:01,449 : INFO ] - 1553836261448
+
+[29 Mar 2019 10:41:01,516 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[29 Mar 2019 10:41:01,533 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'and'.
+
+[29 Mar 2019 10:43:59,861 : INFO ] - main called
+
+[29 Mar 2019 10:44:40,743 : INFO ] - main called
+
+[29 Mar 2019 10:44:41,230 : INFO ] - After connection
+
+[29 Mar 2019 10:44:41,231 : INFO ] - 1553836481230
+
+[29 Mar 2019 10:44:41,296 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[29 Mar 2019 10:44:41,312 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy 
+
+[29 Mar 2019 10:44:41,318 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'and'.
+
+[29 Mar 2019 10:44:59,283 : INFO ] - main called
+
+[29 Mar 2019 10:45:15,293 : INFO ] - main called
+
+[29 Mar 2019 10:45:15,851 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 10:46:15,432 : INFO ] - main called
+
+[29 Mar 2019 10:46:15,836 : INFO ] - After connection
+
+[29 Mar 2019 10:46:15,837 : INFO ] - 1553836575836
+
+[29 Mar 2019 10:46:15,894 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[29 Mar 2019 10:46:15,908 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy 
+
+[29 Mar 2019 10:46:15,914 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy 
+
+[29 Mar 2019 10:46:15,916 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 10:46:15,917 : INFO ] - Property file not found..java.lang.NullPointerException
+
+[29 Mar 2019 10:47:53,732 : INFO ] - main called
+
+[29 Mar 2019 10:47:54,161 : INFO ] - After connection
+
+[29 Mar 2019 10:47:54,162 : INFO ] - 1553836674161
+
+[29 Mar 2019 10:47:54,214 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[29 Mar 2019 10:47:54,228 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy 
+
+[29 Mar 2019 10:47:54,237 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy 
+
+[29 Mar 2019 10:47:54,240 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 10:47:54,240 : INFO ] - Property file not found..java.lang.NullPointerException
+
+[29 Mar 2019 10:49:25,381 : INFO ] - main called
+
+[29 Mar 2019 10:49:25,882 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 10:52:41,415 : INFO ] - main called
+
+[29 Mar 2019 10:52:41,914 : INFO ] - resultSQLServerResultSet:3
+
+[29 Mar 2019 10:53:04,073 : INFO ] - main called
+
+[29 Mar 2019 10:53:04,797 : INFO ] - resultSQLServerResultSet:3
+
+[29 Mar 2019 10:56:37,260 : INFO ] - main called
+
+[29 Mar 2019 10:56:37,755 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 11:15:47,409 : INFO ] - main called
+
+[29 Mar 2019 11:15:47,941 : INFO ] - After connection
+
+[29 Mar 2019 11:15:47,942 : INFO ] - 1553838347941
+
+[29 Mar 2019 11:15:48,015 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') 
+
+[29 Mar 2019 11:15:48,034 : INFO ] - resultselect Id,District_Desc,IsActive,CreationDate,District_Code,Sro_Code,SRO_Desc from District_Sro_Mapping_Dummy 
+
+[29 Mar 2019 11:15:48,040 : INFO ] - resultselect Id,MainType_Document,SubType_Document,IsActive,CreationDate,SubType_Code,MainType_Code from Main_Sub_Type_Dummy 
+
+[29 Mar 2019 11:15:48,043 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 11:15:48,044 : INFO ] - Property file not found..java.lang.NullPointerException
+
+[29 Mar 2019 11:17:42,786 : INFO ] - main called
+
+[29 Mar 2019 11:17:43,286 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 11:22:37,160 : INFO ] - main called
+
+[29 Mar 2019 11:22:37,656 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 11:24:43,511 : INFO ] - main called
+
+[29 Mar 2019 11:24:44,002 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 11:26:11,582 : INFO ] - main called
+
+[29 Mar 2019 11:26:12,063 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 11:28:51,464 : INFO ] - main called
+
+[29 Mar 2019 11:28:51,956 : INFO ] - resultSQLServerResultSet:4
+
+[29 Mar 2019 11:49:33,815 : INFO ] - main called
+
+[29 Mar 2019 11:49:34,319 : INFO ] - After connection
+
+[29 Mar 2019 11:49:34,319 : INFO ] - 1553840374319
+
+[29 Mar 2019 11:49:34,386 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') and UpdatedOn=cast(getdate() as Date)
+
+[29 Mar 2019 11:49:34,398 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'and'.
+
+[29 Mar 2019 11:50:28,246 : INFO ] - main called
+
+[29 Mar 2019 11:55:18,445 : INFO ] - main called
+
+[29 Mar 2019 11:55:18,880 : INFO ] - After connection
+
+[29 Mar 2019 11:55:18,880 : INFO ] - 1553840718880
+
+[29 Mar 2019 11:55:18,936 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') and UpdatedOn=cast(getdate() as Date)
+
+[29 Mar 2019 11:55:18,948 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'and'.
+
+[29 Mar 2019 11:57:41,842 : INFO ] - main called
+
+[29 Mar 2019 11:58:59,246 : INFO ] - main called
+
+[29 Mar 2019 12:03:52,119 : INFO ] - main called
+
+[29 Mar 2019 12:05:57,621 : INFO ] - main called
+
+[29 Mar 2019 12:05:58,248 : INFO ] - resultSQLServerResultSet:3
+
+[29 Mar 2019 12:28:50,930 : INFO ] - main called
+
+[29 Mar 2019 12:28:51,402 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:29:28,459 : INFO ] - main called
+
+[29 Mar 2019 12:29:28,954 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:49:05,424 : INFO ] - main called
+
+[29 Mar 2019 12:49:05,892 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:49:46,552 : INFO ] - main called
+
+[29 Mar 2019 12:49:47,040 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:50:19,838 : INFO ] - main called
+
+[29 Mar 2019 12:50:20,336 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:51:52,136 : INFO ] - main called
+
+[29 Mar 2019 12:51:52,614 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:53:37,806 : INFO ] - main called
+
+[29 Mar 2019 12:53:38,298 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:54:11,856 : INFO ] - main called
+
+[29 Mar 2019 12:54:12,348 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:54:38,023 : INFO ] - main called
+
+[29 Mar 2019 12:54:38,495 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 12:57:34,246 : INFO ] - main called
+
+[29 Mar 2019 12:57:34,743 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 14:14:22,239 : INFO ] - main called
+
+[29 Mar 2019 14:14:22,656 : INFO ] - After connection
+
+[29 Mar 2019 14:14:22,657 : INFO ] - 1553849062656
+
+[29 Mar 2019 14:14:22,713 : INFO ] - resultSELECT Id,UpdatedOn,ControlID,FieldValue,EnteredOn,EnteredBy,UpdatedBy FROM Mst_DdlData_Dumy where  ControlID in('9516','8942','8945','8946','9218','9225','9226','9228','8941','8944') and UpdatedOn=cast(getdate() as Date)
+
+[29 Mar 2019 14:14:22,725 : INFO ] - Sql Exception herecom.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'and'.
+
+[29 Mar 2019 14:57:12,460 : INFO ] - main called
+
+[29 Mar 2019 14:57:12,965 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 15:01:08,689 : INFO ] - main called
+
+[29 Mar 2019 15:01:09,248 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 15:02:49,903 : INFO ] - main called
+
+[29 Mar 2019 15:02:50,374 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 15:06:11,571 : INFO ] - main called
+
+[29 Mar 2019 15:06:12,017 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 15:28:00,949 : INFO ] - main called
+
+[29 Mar 2019 15:28:02,846 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 15:53:32,445 : INFO ] - main called
+
+[29 Mar 2019 15:53:32,941 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 15:59:40,621 : INFO ] - main called
+
+[29 Mar 2019 15:59:41,212 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 17:41:56,108 : INFO ] - main called
+
+[29 Mar 2019 17:41:56,595 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 17:44:46,663 : INFO ] - main called
+
+[29 Mar 2019 17:44:47,152 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 17:47:45,749 : INFO ] - main called
+
+[29 Mar 2019 17:47:46,246 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 17:49:56,934 : INFO ] - main called
+
+[29 Mar 2019 17:49:57,416 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 17:51:53,831 : INFO ] - main called
+
+[29 Mar 2019 17:51:54,288 : INFO ] - resultSQLServerResultSet:2
+
+[29 Mar 2019 17:54:54,298 : INFO ] - main called
+
+[29 Mar 2019 17:54:54,853 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 17:57:10,329 : INFO ] - main called
+
+[29 Mar 2019 17:57:10,826 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 17:57:35,451 : INFO ] - main called
+
+[29 Mar 2019 17:57:35,941 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 17:58:22,366 : INFO ] - main called
+
+[29 Mar 2019 17:58:22,841 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 17:59:03,911 : INFO ] - main called
+
+[29 Mar 2019 17:59:04,365 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:00:09,534 : INFO ] - main called
+
+[29 Mar 2019 18:00:10,000 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:00:52,608 : INFO ] - main called
+
+[29 Mar 2019 18:00:53,333 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:01:04,510 : INFO ] - main called
+
+[29 Mar 2019 18:01:04,988 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:02:10,135 : INFO ] - main called
+
+[29 Mar 2019 18:02:10,627 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:02:22,258 : INFO ] - main called
+
+[29 Mar 2019 18:02:22,759 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:02:36,369 : INFO ] - main called
+
+[29 Mar 2019 18:02:36,859 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:03:51,627 : INFO ] - main called
+
+[29 Mar 2019 18:03:52,120 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:05:08,034 : INFO ] - main called
+
+[29 Mar 2019 18:05:08,491 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:07:25,503 : INFO ] - main called
+
+[29 Mar 2019 18:07:25,959 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:09:04,832 : INFO ] - main called
+
+[29 Mar 2019 18:09:05,290 : INFO ] - resultSQLServerResultSet:1
+
+[29 Mar 2019 18:13:14,190 : INFO ] - main called
+
+[29 Mar 2019 18:13:14,677 : INFO ] - resultSQLServerResultSet:1
+

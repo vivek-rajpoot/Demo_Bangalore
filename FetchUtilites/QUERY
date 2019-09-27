@@ -1,0 +1,25 @@
+IF NOT EXISTS(SELECT * FROM Mst_DdlData_Dumy WHERE UpdatedOn != EnteredOn)
+    BEGIN
+        UPDATE Mst_Publication_Year SET Publication_Year=GetDate() 
+    END
+    ELSE
+    BEGIN	   
+	   INSERT INTO Mst_Publication_Year(Edition_Id, Newspaper_Edition, Last_Modified)
+        VALUES
+		
+		
+		
+		IF NOT EXISTS(SELECT * FROM Mst_DdlData_Dumy WHERE UpdatedOn = EnteredOn) 
+    BEGIN
+       INSERT INTO Mst_Publication_Year(Publication_Year, Year_Id, Last_Modified)
+        VALUES(1,'sdgde','34346236')
+        END
+         ELSE
+    BEGIN	   
+	   UPDATE Mst_Publication_Year
+        SET Publication_Year = GetDate()      
+    END
+	
+	
+	
+	IF NOT EXISTS(SELECT * FROM Mst_DdlData_Dumy WHERE UpdatedOn = EnteredOn) BEGIN INSERT INTO Mst_Newspaper_Edition(Newspaper_Edition, Edition_Id, Last_Modified) VALUES END ELSE BEGIN	UPDATE Mst_Newspaper_Edition SET Newspaper_Edition = ? END

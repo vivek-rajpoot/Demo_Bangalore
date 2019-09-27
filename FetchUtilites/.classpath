@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/apache-commons-lang.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/aws-java-sdk-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/aws-java-sdk-1.2.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/aws-java-sdk-1.2.5-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/dmsapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/ejbclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/ISPack.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/itextpdf-5.5.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/jdts.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/log4j-1.2.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/log4j-1.2.14-additional.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/mysql-connector.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/NGEjbCallBroker.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/niplj.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/nsms.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/odweb.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/ojdbc7-12.1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/omnishared.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/opencsv-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/New folder/FetchUtilites/lib/sqljdbc4-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

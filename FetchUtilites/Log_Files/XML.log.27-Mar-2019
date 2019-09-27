@@ -1,0 +1,981 @@
+[ INFO] 27-Mar-2019 09:41:25 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 09:41:25 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 09:44:19 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 09:44:20 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 09:54:38 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 09:54:38 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 09:55:05 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 09:55:05 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 09:56:35 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 09:56:35 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 09:57:59 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 09:57:59 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 09:59:53 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 09:59:54 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:00:34 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:00:34 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:00:50 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:00:51 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:06:55 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:06:55 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:13:40 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:13:41 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:14:02 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:14:03 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:14:32 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:14:33 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:28:54 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:28:55 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:29:25 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:29:25 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:29:43 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:29:44 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:31:07 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:31:07 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:33:26 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:33:27 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:50:16 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:50:17 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 10:52:01 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 10:52:01 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:00:20 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:00:20 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:02:34 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:02:34 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:08:17 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:08:17 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:09:03 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:09:04 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:09:33 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:09:34 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:15:06 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:15:06 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:15:35 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:15:35 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:16:19 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:16:20 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:17:22 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:17:23 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 11:22:34 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:22:34 (Mapping.java:233)
+1553665954608
+
+[ INFO] 27-Mar-2019 11:22:46 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:22:46 (Mapping.java:233)
+1553665966345
+
+[ INFO] 27-Mar-2019 11:22:59 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:22:59 (Mapping.java:233)
+1553665979641
+
+[ INFO] 27-Mar-2019 11:24:28 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:24:28 (Mapping.java:233)
+1553666068042
+
+[ INFO] 27-Mar-2019 11:25:34 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:25:34 (Mapping.java:233)
+1553666134575
+
+[ INFO] 27-Mar-2019 11:25:42 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:25:42 (Mapping.java:233)
+1553666142680
+
+[ INFO] 27-Mar-2019 11:26:00 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:26:00 (Mapping.java:233)
+1553666160723
+
+[ INFO] 27-Mar-2019 11:26:19 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:26:19 (Mapping.java:233)
+1553666179617
+
+[ INFO] 27-Mar-2019 11:26:19 (Mapping.java:250)
+Result=SQLServerResultSet:1
+
+[ INFO] 27-Mar-2019 11:26:19 (Mapping.java:280)
+Result=SQLServerResultSet:2
+
+[ INFO] 27-Mar-2019 11:26:19 (Mapping.java:304)
+Result=SQLServerResultSet:3
+
+[ INFO] 27-Mar-2019 11:26:55 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 11:26:55 (Mapping.java:233)
+1553666215845
+
+[ INFO] 27-Mar-2019 11:26:55 (Mapping.java:250)
+Result=SQLServerResultSet:1
+
+[ INFO] 27-Mar-2019 11:26:55 (Mapping.java:280)
+Result=SQLServerResultSet:2
+
+[ INFO] 27-Mar-2019 11:26:55 (Mapping.java:304)
+Result=SQLServerResultSet:3
+
+[ INFO] 27-Mar-2019 11:45:12 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 11:45:12 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:33:51 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:33:52 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:35:15 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:35:16 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:35:34 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:35:35 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:40:35 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:40:36 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:41:01 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:41:01 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:41:15 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:41:15 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:45:06 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:45:07 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:45:30 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:45:30 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:46:27 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:46:27 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:48:41 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:48:42 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:50:37 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:50:37 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 12:51:02 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 12:51:02 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:00:41 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:00:41 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:15:59 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:16:00 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:17:25 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:17:25 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:29:26 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:29:26 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:30:32 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:30:32 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:31:33 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:31:34 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:36:25 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:36:26 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:37:22 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:37:23 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:38:32 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:38:33 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:39:25 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:39:25 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:39:35 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:39:36 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:41:04 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:41:04 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 13:43:08 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 13:43:08 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 14:15:34 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 14:15:34 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 14:19:24 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 14:19:25 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 14:28:43 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 14:28:44 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 15:04:21 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 15:04:22 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 15:22:10 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 15:22:10 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 15:22:25 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 15:22:25 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 15:22:33 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 15:22:34 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:01:21 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:01:22 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:04:30 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:04:30 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:04:59 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:04:59 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:10:40 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:10:40 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:10:52 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:10:52 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:11:38 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:11:38 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:12:53 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:12:54 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:28:49 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:28:49 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:30:57 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:30:58 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:31:41 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:31:42 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:35:24 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:35:25 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:35:41 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:35:42 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:37:14 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:37:15 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:41:01 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:41:02 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:42:00 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:42:00 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:44:31 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:44:32 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:45:29 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:45:29 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:46:21 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:46:22 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:46:28 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:46:29 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:46:40 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:46:41 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 16:47:21 (Test.java:106)
+main called
+
+[ INFO] 27-Mar-2019 16:47:21 (Test.java:242)
+After connection
+
+[ INFO] 27-Mar-2019 18:17:57 (Test.java:108)
+main called
+
+[ INFO] 27-Mar-2019 18:17:57 (Test.java:244)
+After connection
+
+[ INFO] 27-Mar-2019 18:19:19 (Test.java:108)
+main called
+
+[ INFO] 27-Mar-2019 18:19:20 (Test.java:244)
+After connection
+
+[ INFO] 27-Mar-2019 18:38:29 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 18:38:29 (Mapping.java:233)
+1553692109563
+
+[ INFO] 27-Mar-2019 18:38:29 (Mapping.java:251)
+Result=SQLServerResultSet:1
+
+[ INFO] 27-Mar-2019 18:38:29 (Mapping.java:281)
+Result=SQLServerResultSet:2
+
+[ INFO] 27-Mar-2019 18:38:29 (Mapping.java:311)
+Result=SQLServerResultSet:3
+
+[ INFO] 27-Mar-2019 18:39:22 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 18:39:22 (Mapping.java:233)
+1553692162227
+
+[ INFO] 27-Mar-2019 18:39:22 (Mapping.java:251)
+Result=SQLServerResultSet:1
+
+[ INFO] 27-Mar-2019 18:39:22 (Mapping.java:281)
+Result=SQLServerResultSet:2
+
+[ INFO] 27-Mar-2019 18:39:22 (Mapping.java:311)
+Result=SQLServerResultSet:3
+
+[ INFO] 27-Mar-2019 18:53:49 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 18:53:49 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 18:55:35 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 18:55:36 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 18:55:57 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 18:55:57 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 18:56:27 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 18:56:27 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 18:57:52 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 18:57:52 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 18:58:38 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 18:58:39 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 18:59:45 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 18:59:45 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:06:20 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:06:21 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:08:16 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:08:16 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:13:00 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:13:00 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:16:53 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:16:53 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:20:35 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:20:36 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:22:38 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:22:39 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:55:25 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:55:26 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:55:54 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:55:55 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:56:06 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:56:06 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 19:56:14 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 19:56:14 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:08:50 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:08:50 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:12:25 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:12:26 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:13:13 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:13:14 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:13:38 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:13:38 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:14:13 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:14:14 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:20:05 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:20:05 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:20:24 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:20:24 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:22:46 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:22:46 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:23:27 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:23:28 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:23:56 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:23:56 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:24:22 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:24:22 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:25:01 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:25:02 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:25:23 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:25:24 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:25:31 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 20:25:31 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 20:59:11 (Mapping.java:211)
+After connection
+
+[ INFO] 27-Mar-2019 20:59:11 (Mapping.java:233)
+1553700551904
+
+[ INFO] 27-Mar-2019 20:59:11 (Mapping.java:251)
+Result=SQLServerResultSet:1
+
+[ INFO] 27-Mar-2019 20:59:11 (Mapping.java:281)
+Result=SQLServerResultSet:2
+
+[ INFO] 27-Mar-2019 20:59:11 (Mapping.java:311)
+Result=SQLServerResultSet:3
+
+[ INFO] 27-Mar-2019 21:01:19 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:01:20 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:02:15 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:02:15 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:02:59 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:03:00 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:05:14 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:05:14 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:06:45 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:06:45 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:28:33 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:28:33 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:28:44 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:28:45 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:28:57 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:28:58 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:29:36 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:29:37 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:29:55 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:29:55 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:30:31 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:30:31 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:39:47 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:39:47 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:41:48 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:41:49 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:45:04 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:45:04 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:46:35 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:46:35 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:47:13 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:47:14 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:47:20 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:47:21 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:47:26 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:47:27 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:48:08 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:48:08 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:49:43 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:49:44 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:51:02 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:51:03 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 21:51:58 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 21:51:58 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 22:02:44 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 22:02:44 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 22:04:56 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 22:04:56 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 22:08:52 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 22:08:52 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 22:17:34 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 22:17:35 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 22:19:23 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 22:19:24 (Test.java:245)
+After connection
+
+[ INFO] 27-Mar-2019 22:19:49 (Test.java:109)
+main called
+
+[ INFO] 27-Mar-2019 22:19:50 (Test.java:245)
+After connection
+
